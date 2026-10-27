@@ -5,16 +5,16 @@
       "source_urls": [
         "https://t.me/OTCwall"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:01+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:32+00:00",
       "result": "verified"
     },
     "nft_birza8": {
       "source_urls": [
         "https://t.me/nft_birza8"
       ],
-      "attempts": 2,
-      "last_attempt": "2026-10-27T12:29:52+00:00",
+      "attempts": 3,
+      "last_attempt": "2026-10-27T18:15:23+00:00",
       "result": "verified"
     },
     "yo_otc": {
@@ -22,16 +22,16 @@
         "https://t.me/nikolasgenius",
         "https://t.me/yo_otc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:06+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:37+00:00",
       "result": "verified"
     },
     "crypto_otc_market": {
       "source_urls": [
         "https://t.me/crypto_otc_market"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:29:56+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:27+00:00",
       "result": "verified"
     },
     "otcgifttg": {
@@ -39,26 +39,28 @@
         "https://t.me/otcgifttg",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:00+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:31+00:00",
       "result": "verified"
     },
     "syndicate_garant": {
       "source_urls": [
+        "https://t.me/chatsyndicat3e",
         "https://t.me/maneramur",
         "https://t.me/reviews_syndicate",
+        "https://t.me/synd1cat3e",
         "https://t.me/syndicate_garant"
       ],
-      "attempts": 2,
-      "last_attempt": "2026-10-27T12:30:10+00:00",
+      "attempts": 3,
+      "last_attempt": "2026-10-27T18:15:41+00:00",
       "result": "verified"
     },
     "otc_gift_chat": {
       "source_urls": [
         "https://t.me/otc_gift_chat"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:29:57+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:28+00:00",
       "result": "verified"
     },
     "dadyagift": {
@@ -68,26 +70,27 @@
         "https://t.me/dadyacrypto",
         "https://t.me/dadyaknow"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:09+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:40+00:00",
       "result": "verified"
     },
     "nfttreidtg": {
       "source_urls": [
         "https://t.me/nfttreidtg"
       ],
-      "attempts": 2,
-      "last_attempt": "2026-10-27T12:29:53+00:00",
+      "attempts": 3,
+      "last_attempt": "2026-10-27T18:15:24+00:00",
       "result": "verified"
     },
     "vseznayka_otc": {
       "source_urls": [
         "https://t.me/ton_vseznayka",
+        "https://t.me/vseznayka_chat",
         "https://t.me/vseznayka_otc",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:05+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:36+00:00",
       "result": "verified"
     },
     "whaleotc": {
@@ -95,28 +98,30 @@
         "https://t.me/gift_newstg",
         "https://t.me/whaleotc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:07+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:38+00:00",
       "result": "verified"
     },
     "utyaotc": {
       "source_urls": [
+        "https://t.me/giftsnewss",
         "https://t.me/giftsutya",
         "https://t.me/utyaotc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:04+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:35+00:00",
       "result": "verified"
     },
     "tontakeotc": {
       "source_urls": [
         "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
         "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru",
+        "https://t.me/tontake",
         "https://t.me/tontakeotc",
         "https://t.me/tontakeotcinfo"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:02+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:33+00:00",
       "result": "verified"
     },
     "otccryptootc": {
@@ -124,16 +129,16 @@
         "https://t.me/aohcocet",
         "https://t.me/otccryptootc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:29:59+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:30+00:00",
       "result": "verified"
     },
     "p2pay": {
       "source_urls": [
         "https://t.me/p2pay"
       ],
-      "attempts": 2,
-      "last_attempt": "2026-10-27T12:29:54+00:00",
+      "attempts": 3,
+      "last_attempt": "2026-10-27T18:15:25+00:00",
       "result": "verified"
     },
     "tvrn_otc": {
@@ -147,8 +152,8 @@
         "https://t.me/tvrn_otc",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:03+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:34+00:00",
       "result": "verified"
     },
     "germany_crypto": {
@@ -187,8 +192,8 @@
       "source_urls": [
         "https://t.me/otc_market_binance"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:29:58+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:29+00:00",
       "result": "verified"
     },
     "ua_otc": {
@@ -305,8 +310,8 @@
         "https://t.me/cryptoukraine2027",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:30:08+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:39+00:00",
       "result": "verified"
     },
     "nike_otc": {
@@ -368,6 +373,7 @@
         "https://t.me/giftgar",
         "https://t.me/greykard",
         "https://t.me/luxpawn",
+        "https://t.me/xoicon",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
       "attempts": 1,
@@ -616,7 +622,8 @@
     },
     "xrocket": {
       "source_urls": [
-        "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru"
+        "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
+        "https://t.me/xrocketnews"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:30:51+00:00",
@@ -667,7 +674,8 @@
     },
     "walt_community_cis": {
       "source_urls": [
-        "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru"
+        "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
+        "https://t.me/walt_news_cis"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:30:42+00:00",
@@ -1001,8 +1009,8 @@
         "https://t.me/sobolezni4",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
-      "attempts": 3,
-      "last_attempt": "2026-10-27T12:29:55+00:00",
+      "attempts": 4,
+      "last_attempt": "2026-10-27T18:15:26+00:00",
       "result": "verified"
     },
     "crypto_bw": {
@@ -1410,8 +1418,9 @@
         "https://t.me/tonarij",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:20+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "giftdrop": {
       "source_urls": [
@@ -1496,6 +1505,7 @@
     },
     "egorzhgun": {
       "source_urls": [
+        "https://t.me/zhgunft",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
       "attempts": 1,
@@ -1788,6 +1798,7 @@
     "vseznayka_admin": {
       "source_urls": [
         "https://t.me/ton_vseznayka",
+        "https://t.me/vseznayka_chat",
         "https://t.me/vseznayka_otc",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
@@ -1817,8 +1828,9 @@
         "https://t.me/giftmarket_telegram",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:21+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "tonfactory_chat": {
       "source_urls": [
@@ -1856,11 +1868,11 @@
         "https://t.me/hashtag",
         "https://t.me/lease",
         "https://t.me/mming",
+        "https://t.me/obey",
         "https://t.me/plug",
+        "https://t.me/semiogs",
         "https://t.me/shortcuts",
-        "https://t.me/telenews",
-        "https://t.me/tonnews",
-        "https://t.me/usernameshop"
+        "https://t.me/sneak"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T06:01:58+00:00",
@@ -1871,6 +1883,7 @@
         "https://t.me/giftgar",
         "https://t.me/giftpawn",
         "https://t.me/luxpawn",
+        "https://t.me/xoicon",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
       "attempts": 1,
@@ -1937,6 +1950,7 @@
     "tonstakers_community": {
       "source_urls": [
         "https://t.me/thetonstakers",
+        "https://t.me/thetonstakers_ru",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
       "attempts": 1,
@@ -2072,6 +2086,7 @@
       "source_urls": [
         "https://t.me/ton_vseznayka",
         "https://t.me/vseznayka_admin",
+        "https://t.me/vseznayka_chat",
         "https://t.me/vseznayka_otc",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
@@ -2148,10 +2163,12 @@
     },
     "yanniseller": {
       "source_urls": [
+        "https://t.me/yanniseller",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:17+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "mrkt_channels_notify": {
       "source_urls": [
@@ -2197,8 +2214,10 @@
     },
     "sector": {
       "source_urls": [
+        "https://t.me/comchat",
         "https://t.me/giftnfts",
         "https://t.me/nine",
+        "https://t.me/ogrent",
         "https://t.me/theia",
         "https://t.me/wave",
         "https://topgramcat.com/?platform=telegram&q=OTC"
@@ -2352,8 +2371,9 @@
       "source_urls": [
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:19+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "tgcollectors_chat": {
       "source_urls": [
@@ -2509,17 +2529,17 @@
     "rainbetcom": {
       "source_urls": [
         "https://t.me/authentic",
+        "https://t.me/comchat",
         "https://t.me/convos",
         "https://t.me/gifting",
         "https://t.me/giftingtg",
         "https://t.me/giftshop",
         "https://t.me/groupchat",
+        "https://t.me/lore",
+        "https://t.me/middleman",
         "https://t.me/mming",
         "https://t.me/network",
-        "https://t.me/ogusers",
-        "https://t.me/rainbet_bonus",
-        "https://t.me/rainbet_vip",
-        "https://t.me/sector"
+        "https://t.me/ogusers"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T06:18:38+00:00",
@@ -2985,6 +3005,7 @@
     },
     "shuffle": {
       "source_urls": [
+        "https://t.me/giftsnewss",
         "https://t.me/giftsutya",
         "https://t.me/media",
         "https://t.me/otcwall",
@@ -3098,6 +3119,7 @@
     "nikolasgenius": {
       "source_urls": [
         "https://t.me/cryptogenius",
+        "https://t.me/cryptogenius_chat",
         "https://t.me/yo_otc"
       ],
       "attempts": 1,
@@ -3108,7 +3130,9 @@
       "source_urls": [
         "https://t.me/alyaska_crypto",
         "https://t.me/alyaska_garant",
+        "https://t.me/alyaska_nft",
         "https://t.me/alyaska_setka",
+        "https://t.me/valigonov_info",
         "https://t.me/valigonovchat",
         "https://t.me/valigonovprice"
       ],
@@ -3127,7 +3151,8 @@
     },
     "valigonovprice": {
       "source_urls": [
-        "https://t.me/alyaska_garant"
+        "https://t.me/alyaska_garant",
+        "https://t.me/alyaska_nft"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:30:32+00:00",
@@ -3143,7 +3168,8 @@
     },
     "valigonovchat": {
       "source_urls": [
-        "https://t.me/alyaska_garant"
+        "https://t.me/alyaska_garant",
+        "https://t.me/alyaska_nft"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:30:31+00:00",
@@ -3189,8 +3215,9 @@
       "source_urls": [
         "https://t.me/bot_for_sale"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:18+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "giftshop_market": {
       "source_urls": [
@@ -3592,7 +3619,13 @@
     },
     "thegranfix": {
       "source_urls": [
-        "https://t.me/cryptanci"
+        "https://t.me/aprilex",
+        "https://t.me/cryptanci",
+        "https://t.me/cryptolegiong",
+        "https://t.me/cryptonik_x",
+        "https://t.me/grahiveapp",
+        "https://t.me/granfixcrypto",
+        "https://t.me/granfixixcyet"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:29:26+00:00",
@@ -3627,8 +3660,8 @@
         "https://t.me/dadya_chat",
         "https://t.me/dadyacrypto"
       ],
-      "attempts": 1,
-      "last_attempt": "2026-10-27T12:28:07+00:00",
+      "attempts": 2,
+      "last_attempt": "2026-10-27T18:15:22+00:00",
       "result": "verified"
     },
     "fleyn_gift": {
@@ -3689,8 +3722,10 @@
     },
     "apex": {
       "source_urls": [
+        "https://t.me/beem",
         "https://t.me/commit",
-        "https://t.me/giftingtg"
+        "https://t.me/giftingtg",
+        "https://t.me/linked"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:27:53+00:00",
@@ -3717,6 +3752,7 @@
     },
     "utyanews_chat": {
       "source_urls": [
+        "https://t.me/giftsnewss",
         "https://t.me/giftsutya"
       ],
       "attempts": 1,
@@ -3725,6 +3761,7 @@
     },
     "eversinceway": {
       "source_urls": [
+        "https://t.me/giftsnewss",
         "https://t.me/giftsutya"
       ],
       "attempts": 1,
@@ -3784,7 +3821,9 @@
     },
     "cold": {
       "source_urls": [
-        "https://t.me/media"
+        "https://t.me/media",
+        "https://t.me/middleman",
+        "https://t.me/vouch"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:28:02+00:00",
@@ -3858,6 +3897,7 @@
     },
     "delya": {
       "source_urls": [
+        "https://t.me/dlxgifts",
         "https://t.me/dlxsetka",
         "https://t.me/nft_chatiq"
       ],
@@ -3915,6 +3955,7 @@
     },
     "cryptogenius": {
       "source_urls": [
+        "https://t.me/cryptogenius_chat",
         "https://t.me/nikolasgenius"
       ],
       "attempts": 1,
@@ -4005,7 +4046,8 @@
     "telenews": {
       "source_urls": [
         "https://t.me/panther",
-        "https://t.me/plug"
+        "https://t.me/plug",
+        "https://t.me/sneak"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:29:19+00:00",
@@ -4062,7 +4104,9 @@
     },
     "groupchat": {
       "source_urls": [
-        "https://t.me/plug"
+        "https://t.me/obey",
+        "https://t.me/plug",
+        "https://t.me/sneak"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:28:29+00:00",
@@ -4070,7 +4114,9 @@
     },
     "usernameshop": {
       "source_urls": [
-        "https://t.me/plug"
+        "https://t.me/obey",
+        "https://t.me/plug",
+        "https://t.me/semiogs"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:30:26+00:00",
@@ -4078,7 +4124,9 @@
     },
     "mming": {
       "source_urls": [
+        "https://t.me/obey",
         "https://t.me/plug",
+        "https://t.me/semiogs",
         "https://t.me/usernameshop"
       ],
       "attempts": 1,
@@ -4087,7 +4135,9 @@
     },
     "lease": {
       "source_urls": [
-        "https://t.me/plug"
+        "https://t.me/obey",
+        "https://t.me/plug",
+        "https://t.me/sneak"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:28:33+00:00",
@@ -4097,6 +4147,7 @@
       "source_urls": [
         "https://t.me/mming",
         "https://t.me/plug",
+        "https://t.me/semiogs",
         "https://t.me/usernameshop"
       ],
       "attempts": 1,
@@ -4106,6 +4157,8 @@
     "giftshop": {
       "source_urls": [
         "https://t.me/plug",
+        "https://t.me/semiogs",
+        "https://t.me/sneak",
         "https://t.me/usernameshop"
       ],
       "attempts": 1,
@@ -4171,6 +4224,7 @@
     "xemonk": {
       "source_urls": [
         "https://t.me/podarkov_chats",
+        "https://t.me/xemonkcontrol",
         "https://t.me/xemonkmedia"
       ],
       "attempts": 1,
@@ -4196,7 +4250,8 @@
     },
     "privet_exchange": {
       "source_urls": [
-        "https://t.me/privet_thai_exchange"
+        "https://t.me/privet_thai_exchange",
+        "https://t.me/reviews_privet_exchange"
       ],
       "attempts": 1,
       "last_attempt": "2026-10-27T12:29:05+00:00",
@@ -4204,6 +4259,7 @@
     },
     "privet_manager_chat": {
       "source_urls": [
+        "https://t.me/privet_thai_chat",
         "https://t.me/privet_thai_exchange"
       ],
       "attempts": 1,
@@ -4228,6 +4284,7 @@
     },
     "username_chat": {
       "source_urls": [
+        "https://t.me/fragment_forum",
         "https://t.me/r777u"
       ],
       "attempts": 1,
@@ -4270,6 +4327,7 @@
     },
     "wave": {
       "source_urls": [
+        "https://t.me/customer",
         "https://t.me/sector"
       ],
       "attempts": 1,
@@ -4303,6 +4361,8 @@
     },
     "redirect": {
       "source_urls": [
+        "https://t.me/customer",
+        "https://t.me/protect",
         "https://t.me/sector",
         "https://t.me/sectorsupport",
         "https://t.me/theia"
@@ -4338,7 +4398,9 @@
     },
     "maneramur": {
       "source_urls": [
+        "https://t.me/chatsyndicat3e",
         "https://t.me/navigation_garant",
+        "https://t.me/synd1cat3e",
         "https://t.me/syndibase",
         "https://t.me/syndicate_garant"
       ],
@@ -4357,6 +4419,7 @@
     },
     "navigation_garant": {
       "source_urls": [
+        "https://t.me/synd1cat3e",
         "https://t.me/syndicate_garant"
       ],
       "attempts": 1,
@@ -4366,6 +4429,7 @@
     "syndibase": {
       "source_urls": [
         "https://t.me/maneramur",
+        "https://t.me/synd1cat3e",
         "https://t.me/syndicate_garant"
       ],
       "attempts": 1,
@@ -4394,492 +4458,874 @@
       "source_urls": [
         "https://t.me/apex"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:36+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "proektw": {
       "source_urls": [
         "https://t.me/caznili"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:43+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "middleman": {
       "source_urls": [
         "https://t.me/cold"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:38+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "vouch": {
       "source_urls": [
         "https://t.me/cold"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:09+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "beem": {
       "source_urls": [
         "https://t.me/commit"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:11+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "cryptogenius_chat": {
       "source_urls": [
-        "https://t.me/cryptogenius"
+        "https://t.me/cryptogenius",
+        "https://t.me/cryptogenius_chat"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:17+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "theorderhub": {
       "source_urls": [
         "https://t.me/delya"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:59+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "dlxgifts": {
       "source_urls": [
         "https://t.me/delya"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:23+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "dlxbio": {
       "source_urls": [
         "https://t.me/delya"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:22+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "dlxruch": {
       "source_urls": [
         "https://t.me/delya"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:24+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "dao_unique": {
       "source_urls": [
         "https://t.me/egor_unique"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:21+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "sneak": {
       "source_urls": [
         "https://t.me/giftshop"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:52+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "giftshoptos": {
       "source_urls": [
         "https://t.me/giftshop"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:29+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "giftshopproxies": {
       "source_urls": [
         "https://t.me/giftshop"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:28+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "obey": {
       "source_urls": [
         "https://t.me/giftshop"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:40+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "giftcollectors": {
       "source_urls": [
         "https://t.me/giftsmagnate"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:27+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "rentgifts": {
       "source_urls": [
-        "https://t.me/giftsmagnate"
+        "https://t.me/giftsmagnate",
+        "https://t.me/rentgifts"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:46+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "xoicon": {
       "source_urls": [
         "https://t.me/greykard"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:15+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "u6996": {
       "source_urls": [
         "https://t.me/greykard"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:04+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "banker": {
       "source_urls": [
         "https://t.me/gross"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:10+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "bio_krakazyabra": {
       "source_urls": [
         "https://t.me/krakaze"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:12+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "biomanera": {
       "source_urls": [
         "https://t.me/maneramur"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:13+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "synd1cat3e": {
       "source_urls": [
+        "https://t.me/chatsyndicat3e",
         "https://t.me/maneramur",
         "https://t.me/navigation_garant",
         "https://t.me/syndibase"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:55+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "gram": {
       "source_urls": [
         "https://t.me/markokhman"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:32+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "telegram": {
       "source_urls": [
         "https://t.me/markokhman"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:56+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "alexmarksov": {
       "source_urls": [
         "https://t.me/nastees7"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:07+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "richduels": {
       "source_urls": [
         "https://t.me/navigation_garant"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:48+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "syndicate_garants": {
       "source_urls": [
-        "https://t.me/navigation_garant"
+        "https://t.me/navigation_garant",
+        "https://t.me/syndicate_garants"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:55+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "trolling_syndicate": {
       "source_urls": [
         "https://t.me/navigation_garant"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:03+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "chatsyndicat3e": {
       "source_urls": [
-        "https://t.me/navigation_garant"
+        "https://t.me/navigation_garant",
+        "https://t.me/synd1cat3e"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:15+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "shopsyndicate": {
       "source_urls": [
         "https://t.me/navigation_garant"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:51+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "ogrent": {
       "source_urls": [
         "https://t.me/nine",
         "https://t.me/theia"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:41+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "comchat": {
       "source_urls": [
+        "https://t.me/comchat",
         "https://t.me/nine"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:16+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "minigames": {
       "source_urls": [
+        "https://t.me/minigames",
         "https://t.me/nine"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:39+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "protect": {
       "source_urls": [
+        "https://t.me/customer",
         "https://t.me/nine",
         "https://t.me/wave"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:44+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "unbox": {
       "source_urls": [
         "https://t.me/nine"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:05+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "ragemoneyy": {
       "source_urls": [
-        "https://t.me/privet_exchange"
+        "https://t.me/privet_exchange",
+        "https://t.me/ragemoneyy"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:45+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "reviews_privet_exchange": {
       "source_urls": [
         "https://t.me/privet_exchange"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:47+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "fucking_stussy": {
       "source_urls": [
+        "https://t.me/fucking_stussy",
         "https://t.me/privet_exchange"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:26+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "privet_thai_chat": {
       "source_urls": [
         "https://t.me/privet_manager_chat"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:42+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "lanskaya": {
       "source_urls": [
         "https://t.me/snyalcepik"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:35+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "cryptonik_x": {
       "source_urls": [
         "https://t.me/thegranfix"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:19+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "aprilex": {
       "source_urls": [
         "https://t.me/thegranfix"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:08+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "grahiveapp": {
       "source_urls": [
         "https://t.me/thegranfix"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:31+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "cryptolegiong": {
       "source_urls": [
         "https://t.me/thegranfix"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:18+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "granfixcrypto": {
       "source_urls": [
         "https://t.me/thegranfix"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:33+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "granfixixcyet": {
       "source_urls": [
         "https://t.me/thegranfix"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:34+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "vseznayka_chat": {
       "source_urls": [
         "https://t.me/ton_vseznayka"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:10+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "tontake": {
       "source_urls": [
         "https://t.me/tonmeup"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:01+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "thetonstakers_ru": {
       "source_urls": [
         "https://t.me/tonstakers_community"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:00+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "trade": {
       "source_urls": [
+        "https://t.me/trade",
         "https://t.me/trade4at"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:02+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "textingrules": {
       "source_urls": [
         "https://t.me/type"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:58+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "lore": {
       "source_urls": [
         "https://t.me/type"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:37+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "season": {
       "source_urls": [
+        "https://t.me/lore",
+        "https://t.me/texted",
         "https://t.me/type"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:49+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "texted": {
       "source_urls": [
+        "https://t.me/texted",
         "https://t.me/type"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:57+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "fragment_forum": {
       "source_urls": [
         "https://t.me/username_chat"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:25+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "semiogs": {
       "source_urls": [
         "https://t.me/usernameshop"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:50+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "blackmarket": {
       "source_urls": [
+        "https://t.me/blackmarket",
+        "https://t.me/obey",
+        "https://t.me/semiogs",
         "https://t.me/usernameshop"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:14+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "giftsnewss": {
       "source_urls": [
         "https://t.me/utyanews_chat"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:30+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "vadim_wright": {
       "source_urls": [
         "https://t.me/vadimwright"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:06+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "artyom64rus": {
       "source_urls": [
         "https://t.me/val_krasnodar"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:09+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "valigonov_info": {
       "source_urls": [
         "https://t.me/valigonov"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:07+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "alyaska_nft": {
       "source_urls": [
+        "https://t.me/alyaska_nft",
         "https://t.me/valigonovchat"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:07+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "vip_t0p": {
       "source_urls": [
         "https://t.me/vip_forex_bitcoin_kripta_buysell"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:08+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "walt": {
       "source_urls": [
-        "https://t.me/walt_community_cis"
+        "https://t.me/walt_community_cis",
+        "https://t.me/walt_news_cis",
+        "https://t.me/walt_support"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:11+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "walt_support": {
       "source_urls": [
-        "https://t.me/walt_community_cis"
+        "https://t.me/walt",
+        "https://t.me/walt_community_cis",
+        "https://t.me/walt_news_cis"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:13+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "walt_news_cis": {
       "source_urls": [
         "https://t.me/walt_community_cis"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:12+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "customer": {
       "source_urls": [
         "https://t.me/wave"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:14:20+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "xemonkcontrol": {
       "source_urls": [
         "https://t.me/xemonk"
       ],
-      "attempts": 0,
-      "last_attempt": null
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:14+00:00",
+      "result": "irrelevant_or_not_public_group"
     },
     "xrocketnews": {
       "source_urls": [
         "https://t.me/xrocket"
+      ],
+      "attempts": 1,
+      "last_attempt": "2026-10-27T18:15:16+00:00",
+      "result": "irrelevant_or_not_public_group"
+    },
+    "setkal2w": {
+      "source_urls": [
+        "https://t.me/alyaska_nft"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "grossprobotfaq": {
+      "source_urls": [
+        "https://t.me/banker"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "newgrosspro": {
+      "source_urls": [
+        "https://t.me/banker"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "beems": {
+      "source_urls": [
+        "https://t.me/beem"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "underground": {
+      "source_urls": [
+        "https://t.me/comchat"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "dlxgift": {
+      "source_urls": [
+        "https://t.me/dlxgifts"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "vips_crypto": {
+      "source_urls": [
+        "https://t.me/fragment_forum"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "gragencymanager": {
+      "source_urls": [
+        "https://t.me/granfixcrypto"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "dovolim": {
+      "source_urls": [
+        "https://t.me/granfixixcyet"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "chatgranfix": {
+      "source_urls": [
+        "https://t.me/granfixixcyet"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "area": {
+      "source_urls": [
+        "https://t.me/lore"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "fame": {
+      "source_urls": [
+        "https://t.me/middleman"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "minigamescasino": {
+      "source_urls": [
+        "https://t.me/minigames"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "charisma": {
+      "source_urls": [
+        "https://t.me/obey"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "oblige": {
+      "source_urls": [
+        "https://t.me/ogrent"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "ogrentapp": {
+      "source_urls": [
+        "https://t.me/ogrent"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "privet_thai_all": {
+      "source_urls": [
+        "https://t.me/privet_thai_chat",
+        "https://t.me/reviews_privet_exchange"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "middlemantos": {
+      "source_urls": [
+        "https://t.me/protect"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "clientele": {
+      "source_urls": [
+        "https://t.me/protect"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "ugsreplenisher": {
+      "source_urls": [
+        "https://t.me/richduels"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "ugsgame": {
+      "source_urls": [
+        "https://t.me/richduels"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "simp": {
+      "source_urls": [
+        "https://t.me/season"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "clue": {
+      "source_urls": [
+        "https://t.me/sneak"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "pricesyndicate": {
+      "source_urls": [
+        "https://t.me/synd1cat3e"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "texting": {
+      "source_urls": [
+        "https://t.me/texted",
+        "https://t.me/textingrules"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "tontakechat": {
+      "source_urls": [
+        "https://t.me/tontake"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "tontakegames": {
+      "source_urls": [
+        "https://t.me/tontake"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "tontakegarant": {
+      "source_urls": [
+        "https://t.me/tontake"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "tontakegarants": {
+      "source_urls": [
+        "https://t.me/tontake"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "trade_relayer": {
+      "source_urls": [
+        "https://t.me/trade"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "gifttradeservise": {
+      "source_urls": [
+        "https://t.me/trade"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "twitris": {
+      "source_urls": [
+        "https://t.me/u6996"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "unboxsupport": {
+      "source_urls": [
+        "https://t.me/unbox"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "unboxgifts": {
+      "source_urls": [
+        "https://t.me/unbox"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "walt_status": {
+      "source_urls": [
+        "https://t.me/walt_news_cis",
+        "https://t.me/walt_support"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "wallet": {
+      "source_urls": [
+        "https://t.me/walt_support"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "ton_rocket_drops": {
+      "source_urls": [
+        "https://t.me/xrocketnews"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "ton_rocket_chat_en": {
+      "source_urls": [
+        "https://t.me/xrocketnews"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "kiyya": {
+      "source_urls": [
+        "https://t.me/zamil"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "sojib": {
+      "source_urls": [
+        "https://t.me/zamil"
+      ],
+      "attempts": 0,
+      "last_attempt": null
+    },
+    "zileu_leu": {
+      "source_urls": [
+        "https://t.me/zileu"
       ],
       "attempts": 0,
       "last_attempt": null
@@ -4923,16 +5369,16 @@
       "last_checked": "2026-10-27T12:27:48+00:00"
     },
     "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=88": {
-      "last_checked": null
+      "last_checked": "2026-10-27T18:14:00+00:00"
     },
     "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=1": {
-      "last_checked": null
+      "last_checked": "2026-10-27T18:14:00+00:00"
     },
     "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=10": {
-      "last_checked": null
+      "last_checked": "2026-10-27T18:14:01+00:00"
     },
     "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=2": {
-      "last_checked": null
+      "last_checked": "2026-10-27T18:14:02+00:00"
     },
     "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=20": {
       "last_checked": null
@@ -4962,7 +5408,7 @@
       "last_checked": null
     }
   },
-  "query_cursor": 4,
+  "query_cursor": 0,
   "verified_chats": [
     {
       "id": null,
@@ -4970,9 +5416,9 @@
       "title": "Обсуждение с Дядей ️️️️",
       "description": "Канал дяди: https://t.me/dadyacrypto ОТС: @dadyagift Правила чата: https://t.me/dadya_chat/2353456",
       "category": "gifts",
-      "members": 14749,
-      "online": 3790,
-      "last_checked": "2026-10-27T12:28:08+00:00",
+      "members": 14746,
+      "online": 4161,
+      "last_checked": "2026-10-27T18:15:23+00:00",
       "first_seen": "2026-10-27T12:28:08+00:00",
       "evidence_url": "https://t.me/dadya_chat",
       "source_urls": [
@@ -4981,7 +5427,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -4989,9 +5436,9 @@
       "title": "OTC 🎁Покупка / Продажа Подарков",
       "description": "✅ • В данной группу вы можете выгодно купить/продать NFT. 🎁 Купля / Продажа Telegram Gifts Telegram gifts, NFT, stickers, TON, analytics",
       "category": "gifts",
-      "members": 2526,
-      "online": 162,
-      "last_checked": "2026-10-27T12:29:53+00:00",
+      "members": 2525,
+      "online": 158,
+      "last_checked": "2026-10-27T18:15:24+00:00",
       "first_seen": "2026-10-27T06:17:37+00:00",
       "evidence_url": "https://t.me/nft_birza8",
       "source_urls": [
@@ -5009,8 +5456,8 @@
       "description": "⭐️ГАРАНТ ГРУППЫ 👉@свободное место) ⭐️БОТ OTC 👉 @GiftElfRobot ‼️Проводи сделки только через гарантов/гарантботов",
       "category": "gifts",
       "members": 3930,
-      "online": 330,
-      "last_checked": "2026-10-27T12:29:54+00:00",
+      "online": 338,
+      "last_checked": "2026-10-27T18:15:25+00:00",
       "first_seen": "2026-10-27T06:17:43+00:00",
       "evidence_url": "https://t.me/nfttreidtg",
       "source_urls": [
@@ -5028,8 +5475,8 @@
       "description": "ОБМЕННИК: t.me/send?start=r-sfrcb Официальный партнёр биржи BingX: ВВОДИ код H3WSZP при регистрации и забирай бонусы",
       "category": "crypto",
       "members": 11599,
-      "online": 131,
-      "last_checked": "2026-10-27T12:29:55+00:00",
+      "online": 116,
+      "last_checked": "2026-10-27T18:15:26+00:00",
       "first_seen": "2026-10-27T06:18:01+00:00",
       "evidence_url": "https://t.me/p2pay",
       "source_urls": [
@@ -5046,9 +5493,9 @@
       "title": "Crypto Taverna OTC",
       "description": "Escrow/Гаранты: @Ranger220 @crypto_bw @nurekd @bimboboss @Sobolezni4 All resources: https://t.me/addlist/biOeTN1Tf6MxYWFk Rules: ENG: https://t.me/crpt_otc/1863459 RUS: https://t.me/crpt_otc/1863457 Feedback @crpto_tvrn",
       "category": "crypto",
-      "members": 20789,
-      "online": 2490,
-      "last_checked": "2026-10-27T12:29:56+00:00",
+      "members": 20798,
+      "online": 2396,
+      "last_checked": "2026-10-27T18:15:27+00:00",
       "first_seen": "2026-10-27T05:58:58+00:00",
       "evidence_url": "https://t.me/crpt_otc",
       "source_urls": [
@@ -5073,9 +5520,9 @@
       "title": "Crypto OTC Gifts",
       "description": "— Указывать #WTS (хочу продать) и #WTB (хочу купить) в объявлении. — Указывать цену в объявлении, для расчетов используется $. — Соблюдать ограничение на количество 500 символов и 12 строк. Гарант: @valter6781",
       "category": "gifts",
-      "members": 17110,
-      "online": 2563,
-      "last_checked": "2026-10-27T12:29:57+00:00",
+      "members": 17131,
+      "online": 2583,
+      "last_checked": "2026-10-27T18:15:28+00:00",
       "first_seen": "2026-10-27T05:59:00+00:00",
       "evidence_url": "https://t.me/crypto_otc_market",
       "source_urls": [
@@ -5092,9 +5539,9 @@
       "title": "NFT OTC • Ads",
       "description": "💎 Правила - первый закреп 💎 ✔️ Все что ты ищешь - @Projects_TON ✔️ Предложения - @r777u",
       "category": "gifts",
-      "members": 3101,
-      "online": 464,
-      "last_checked": "2026-10-27T12:29:58+00:00",
+      "members": 3102,
+      "online": 454,
+      "last_checked": "2026-10-27T18:15:29+00:00",
       "first_seen": "2026-10-27T05:59:11+00:00",
       "evidence_url": "https://t.me/otc_gift_chat",
       "source_urls": [
@@ -5111,9 +5558,9 @@
       "title": "OTC Market Binance | KYC Chat",
       "description": "Чат : KYC | Services | OTC Announcements: @giftcards_sup Twitter.com/Binance Rules: https://t.me/OTC_Market_Binance/24",
       "category": "gifts",
-      "members": 1316,
-      "online": 52,
-      "last_checked": "2026-10-27T12:29:59+00:00",
+      "members": 1317,
+      "online": 38,
+      "last_checked": "2026-10-27T18:15:30+00:00",
       "first_seen": "2026-10-27T05:59:13+00:00",
       "evidence_url": "https://t.me/otc_market_binance",
       "source_urls": [
@@ -5130,9 +5577,9 @@
       "title": "OTC CRYPTO",
       "description": "Добро пожаловать в чат по криптовалюте OTS! Здесь обсуждаем последние тренды, делимся аналитикой и торговыми стратегиями. Присоединяйтесь к сообществу профессионалов и новичков, где каждый может найти свое место в мире цифровых активов. Помощь| @AOHCOCET",
       "category": "crypto",
-      "members": 5799,
-      "online": 125,
-      "last_checked": "2026-10-27T12:30:00+00:00",
+      "members": 5810,
+      "online": 111,
+      "last_checked": "2026-10-27T18:15:31+00:00",
       "first_seen": "2026-10-27T05:59:17+00:00",
       "evidence_url": "https://t.me/otccryptootc",
       "source_urls": [
@@ -5150,9 +5597,9 @@
       "title": "OTC TELEGRAM",
       "description": "OTC Forum | Marketplace Один из первых и крупнейших OTC в телеграмм! Продажа / обмен подарки, криптовалюта и другая игровая ценность. Официальный бот-гарант: @TheOpenGuarantorBot 🔞 Запрет: скам, флуд, спам и все подобное.",
       "category": "mixed",
-      "members": 26311,
-      "online": 7039,
-      "last_checked": "2026-10-27T12:30:01+00:00",
+      "members": 26307,
+      "online": 7092,
+      "last_checked": "2026-10-27T18:15:32+00:00",
       "first_seen": "2026-10-27T05:59:19+00:00",
       "evidence_url": "https://t.me/otcgifttg",
       "source_urls": [
@@ -5170,9 +5617,9 @@
       "title": "OTC Wall - Стенка обьявлений",
       "description": "💎 OTC-чат Telegram-подарков 🎰 @Shuffle #1 VIP Crypto Casino & Sportsbook Shuffle.com ⚡️ Покупка и продажа подарков напрямую. Никакого флуда — только сделки и цены! Владелец: @lqpdwasd",
       "category": "gifts",
-      "members": 4814,
-      "online": 1109,
-      "last_checked": "2026-10-27T12:30:02+00:00",
+      "members": 4817,
+      "online": 1215,
+      "last_checked": "2026-10-27T18:15:33+00:00",
       "first_seen": "2026-10-27T05:59:24+00:00",
       "evidence_url": "https://t.me/otcwall",
       "source_urls": [
@@ -5189,14 +5636,15 @@
       "title": "TonTake OTC | NFT Подарки",
       "description": "Р2Р рынок для трейдинга, боты отсутствуют! Наш канал: @tontakeotcinfo Правила: t.me/tontakeotc/8/67169 Ответственный за проект: @tonmeup",
       "category": "gifts",
-      "members": 58254,
-      "online": 4352,
-      "last_checked": "2026-10-27T12:30:03+00:00",
+      "members": 58072,
+      "online": 4512,
+      "last_checked": "2026-10-27T18:15:34+00:00",
       "first_seen": "2026-10-27T05:59:31+00:00",
       "evidence_url": "https://t.me/tontakeotc",
       "source_urls": [
         "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
         "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru",
+        "https://t.me/tontake",
         "https://t.me/tontakeotc",
         "https://t.me/tontakeotcinfo"
       ],
@@ -5211,9 +5659,9 @@
       "title": "Crypto Taverna OTC",
       "description": "Bot: @TVRN_OTC_BOT Escrow: @sheligod @ranger228 @crypto_bu @dmithree All resources: t.me/addlist/RHHQhEqNTeA0N2My Rules/Правила: ENG: t.me/tvrn_faq/235 RUS: t.me/tvrn_faq/234 Feedback: @crpto_otc",
       "category": "crypto",
-      "members": 53307,
-      "online": 7720,
-      "last_checked": "2026-10-27T12:30:04+00:00",
+      "members": 53302,
+      "online": 7574,
+      "last_checked": "2026-10-27T18:15:35+00:00",
       "first_seen": "2026-10-27T05:59:31+00:00",
       "evidence_url": "https://t.me/tvrn_otc",
       "source_urls": [
@@ -5222,6 +5670,7 @@
         "https://t.me/ranger228",
         "https://t.me/sheligod",
         "https://t.me/tavernaescrow",
+        "https://t.me/tvrn_faq",
         "https://t.me/tvrn_otc",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
@@ -5237,11 +5686,12 @@
       "description": "UTYA OTC - платформа предназначенная для продажи/покупки/поиска интересующих подарков. Наш канал — @giftsutya",
       "category": "gifts",
       "members": 635,
-      "online": 218,
-      "last_checked": "2026-10-27T12:30:05+00:00",
+      "online": 239,
+      "last_checked": "2026-10-27T18:15:36+00:00",
       "first_seen": "2026-10-27T05:59:34+00:00",
       "evidence_url": "https://t.me/utyaotc",
       "source_urls": [
+        "https://t.me/giftsnewss",
         "https://t.me/giftsutya",
         "https://t.me/utyaotc"
       ],
@@ -5257,12 +5707,13 @@
       "description": "Создатель: @vseznayka_admin Канал: @ton_vseznayka ⭐️ Сервис для покупки звёзд без KYC: @vseznayka_stars_bot 💎 TON за рубли: @vseznayka_ex_bot",
       "category": "gifts",
       "members": 18260,
-      "online": 4930,
-      "last_checked": "2026-10-27T12:30:06+00:00",
+      "online": 5005,
+      "last_checked": "2026-10-27T18:15:37+00:00",
       "first_seen": "2026-10-27T05:59:35+00:00",
       "evidence_url": "https://t.me/vseznayka_otc",
       "source_urls": [
         "https://t.me/ton_vseznayka",
+        "https://t.me/vseznayka_chat",
         "https://t.me/vseznayka_otc",
         "https://topgramcat.com/?platform=telegram&q=OTC"
       ],
@@ -5277,9 +5728,9 @@
       "title": "YO OTC | VIP 350",
       "description": "Доска для объявлений Внимание! Группа строго для объявлений о покупке/продаже подарков, юзерок и номеров Гарант: @nikolasgenius 2% Запрещены ссылки на сторонние сайты, отс и оски 💜 При поддержке @Shuffle Shuffle.com Умножь депозит ×3 с кодом TG3x 💜",
       "category": "gifts",
-      "members": 15833,
-      "online": 5550,
-      "last_checked": "2026-10-27T12:30:07+00:00",
+      "members": 15818,
+      "online": 5932,
+      "last_checked": "2026-10-27T18:15:38+00:00",
       "first_seen": "2026-10-27T05:59:36+00:00",
       "evidence_url": "https://t.me/yo_otc",
       "source_urls": [
@@ -5297,9 +5748,9 @@
       "title": "Whale OTC (100+ GRAM)",
       "description": "Свежие новости из мира telegram подарков - @gift_newstg Связь/гарант 3% - @orgazm @notorgazm",
       "category": "gifts",
-      "members": 17556,
-      "online": 6400,
-      "last_checked": "2026-10-27T12:30:08+00:00",
+      "members": 17557,
+      "online": 6565,
+      "last_checked": "2026-10-27T18:15:39+00:00",
       "first_seen": "2026-10-27T05:59:36+00:00",
       "evidence_url": "https://t.me/whaleotc",
       "source_urls": [
@@ -5317,9 +5768,9 @@
       "title": "🇺🇦 CRYPTO UA | OTC CHAT",
       "description": "Прайс на услуги гаранта и рекламу + ОТЗЫВЫ - https://t.me/priseforservice Гарант @Cryptop2pUkraine1 Наш канал https://t.me/CryptoUkraine2022 Скам чат https://t.me/ScamUAlert ( Если вас обманули пишем сюда жалобу)",
       "category": "crypto",
-      "members": 13431,
-      "online": 577,
-      "last_checked": "2026-10-27T12:30:09+00:00",
+      "members": 13396,
+      "online": 592,
+      "last_checked": "2026-10-27T18:15:40+00:00",
       "first_seen": "2026-10-27T06:00:22+00:00",
       "evidence_url": "https://t.me/cryptoukraine2027",
       "source_urls": [
@@ -5337,9 +5788,9 @@
       "title": "Sell / Buy gifts | OTC",
       "description": "Админ чата: @dadyaknow Канал Дяди: @dadyacrypto Здесь вы можете покупать/продавать стикеры и подарки Telegram!",
       "category": "gifts",
-      "members": 18510,
-      "online": 4737,
-      "last_checked": "2026-10-27T12:30:10+00:00",
+      "members": 18536,
+      "online": 5034,
+      "last_checked": "2026-10-27T18:15:41+00:00",
       "first_seen": "2026-10-27T06:00:25+00:00",
       "evidence_url": "https://t.me/dadyagift",
       "source_urls": [
@@ -5359,14 +5810,16 @@
       "title": "𝙂𝘼𝙍𝘼𝙉𝙏 🎃 𝙎𝙔𝙉𝘿𝙄𝘾𝘼𝙏𝙀 | Честные сделки | БИРЖА NFT | OTC",
       "description": "‼️ Перед проведением сделок в нашем чате ознакомьтесь с: 📘 @navigation_garant - навигация 🫂 @reviews_syndicate - 30k 📖 Ознакомьтесь с правилами проекта, прописав команду «правила» в чате. 📕 @syndibase - наша скам база. 💎Владелец - @maneramur",
       "category": "gifts",
-      "members": 9304,
-      "online": 1146,
-      "last_checked": "2026-10-27T12:30:11+00:00",
+      "members": 9284,
+      "online": 1113,
+      "last_checked": "2026-10-27T18:15:42+00:00",
       "first_seen": "2026-10-27T06:19:01+00:00",
       "evidence_url": "https://t.me/syndicate_garant",
       "source_urls": [
+        "https://t.me/chatsyndicat3e",
         "https://t.me/maneramur",
         "https://t.me/reviews_syndicate",
+        "https://t.me/synd1cat3e",
         "https://t.me/syndicate_garant"
       ],
       "verified": true,
@@ -5375,5 +5828,5 @@
       "aliases": []
     }
   ],
-  "last_run": "2026-10-27T12:30:52+00:00"
+  "last_run": "2026-10-27T18:15:42+00:00"
 }
