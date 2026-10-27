@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-27T05:57:50.263551+00:00",
+  "allowed_hosts": [
+    "chatcrawler.link",
+    "tgpulse.com",
+    "topgramcat.com"
+  ],
+  "user_agent": "OTCRadar/1.0 (public Telegram group directory; limited requests)",
+  "crawl_interval_seconds": 2,
+  "pages": [
+    {
+      "url": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru",
+      "http_status": 200,
+      "type": "catalog",
+      "scope": "Russian Telegram gift groups, broad; not all OTC",
+      "extraction": "href=\"/v/<username>\"; HTML ItemList JSON-LD also has https://chatcrawler.link/v/<username>. Validate all usernames against t.me public group profiles.",
+      "pagination": "Same path with &p=1, &p=2 ... current last page p=88. 30 rows/page. Follow actual same-path pagination links rather than assume bound.",
+      "robots": "Catalog paths and pagination allowed. Disallowed: ?q=, &q=, /api/, /v/_/, /v/api/, partial=, /app, /web. Do not fetch search endpoint."
+    },
+    {
+      "url": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
+      "http_status": 200,
+      "type": "catalog",
+      "scope": "Russian crypto exchanges and P2P groups, broad; not all OTC",
+      "extraction": "href=\"/v/<username>\". Card text includes type, language, inferred summary. Must revalidate group and relevance on t.me.",
+      "pagination": "Same path with &p=1 ... current last page p=91, 30 rows/page. Follow actual same-path links.",
+      "robots": "Allowed catalog and pagination, same exclusions as gifts source."
+    },
+    {
+      "url": "https://tgpulse.com/ru/search?order=best&search=Otc",
+      "http_status": 200,
+      "type": "search_directory",
+      "scope": "Explicit OTC keyword groups, all languages; index currently claims 122 matches.",
+      "extraction": "Prefer script[type=\"application/ld+json\"] ItemList.itemListElement; each listing has identifier=-100... numeric group ID, url=https://t.me/username, name, description. Also direct t.me href and details/-100... paths. Filter bots/admins/related links by primary ItemList.",
+      "pagination": "/ru/search?search=Otc&page=1&order=best and page=2,page=3. Follow rel/aria Next links until exhausted; 20 rows/page.",
+      "robots": "/robots.txt returned generic HTML, no robot directives found; no access challenge on tested public query."
+    },
+    {
+      "url": "https://topgramcat.com/?platform=telegram&q=OTC",
+      "http_status": 200,
+      "type": "catalog_search",
+      "scope": "Public TON/gifts catalog; search may still include broad results; not trusted as proof of OTC relevance.",
+      "extraction": "Direct https://t.me/<username> href; includes main cards and cross-links/admin/bot links. Validate each candidate.",
+      "pagination": "Do not follow &p= links: general user-agent robots disallows pagination. First page only.",
+      "robots": "General * allows / but disallows /data/, /catalogs/, panel.php, bot.php, telegram_parser.php, cron.php, p=, all=, action=. Some named AI agents have allow overrides but crawler should follow general rules conservatively."
+    }
+  ],
+  "feasibility": "Directory existence and broad counts do not establish that 1500 distinct currently public Russian OTC chats exist. Strict OTC plus Russian classification requires verification per group; many OTC profiles have English-only descriptions despite Russian membership. No honest fixed 1500 guarantee without changing taxonomy or adding authorized Telegram API discovery. All seeded metrics are observations, not live guarantees.",
+  "github_actions_sources": [
+    {
+      "url": "https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule",
+      "finding": "Minimum cron interval five minutes. Scheduled runs can be delayed or dropped under high load. Scheduled workflows only run on default branch. Public repository schedules disabled after 60 days without activity."
+    },
+    {
+      "url": "https://docs.github.com/en/actions/reference/limits",
+      "finding": "GitHub-hosted job maximum runtime six hours. Actions alone cannot promise uninterrupted 24/7 process or realtime updates."
+    }
+  ]
+}

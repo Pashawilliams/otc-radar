@@ -1,0 +1,13 @@
+{
+  "state": "ok",
+  "last_attempt": "2026-10-27T05:58:50+00:00",
+  "last_success": "2026-10-27T06:02:01+00:00",
+  "verified_count": 15,
+  "candidate_count": 390,
+  "inspected_this_run": 160,
+  "sources_fetched": 8,
+  "run_url": null,
+  "errors": [],
+  "mode": "public_web",
+  "refresh_minutes": 15
+}

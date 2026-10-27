@@ -1,0 +1,167 @@
+{
+  "allowed_hosts": [
+    "chatcrawler.link",
+    "tgpulse.com",
+    "topgramcat.com"
+  ],
+  "pages": [
+    "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru",
+    "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
+    "https://tgpulse.com/ru/search?order=best&search=Otc",
+    "https://topgramcat.com/?platform=telegram&q=OTC"
+  ],
+  "seeds": [
+    {
+      "username": "otcwall",
+      "source_url": "https://t.me/OTCwall"
+    },
+    {
+      "username": "nft_birza8",
+      "source_url": "https://t.me/nft_birza8"
+    },
+    {
+      "username": "yo_otc",
+      "source_url": "https://t.me/yo_otc"
+    },
+    {
+      "username": "crypto_otc_market",
+      "source_url": "https://t.me/crypto_otc_market"
+    },
+    {
+      "username": "otcgifttg",
+      "source_url": "https://t.me/otcgifttg"
+    },
+    {
+      "username": "syndicate_garant",
+      "source_url": "https://t.me/syndicate_garant"
+    },
+    {
+      "username": "otc_gift_chat",
+      "source_url": "https://t.me/otc_gift_chat"
+    },
+    {
+      "username": "dadyagift",
+      "source_url": "https://t.me/DADYAGIFT"
+    },
+    {
+      "username": "nfttreidtg",
+      "source_url": "https://t.me/nfttreidtg"
+    },
+    {
+      "username": "vseznayka_otc",
+      "source_url": "https://t.me/vseznayka_otc"
+    },
+    {
+      "username": "whaleotc",
+      "source_url": "https://t.me/whaleotc"
+    },
+    {
+      "username": "utyaotc",
+      "source_url": "https://t.me/utyaotc"
+    },
+    {
+      "username": "tontakeotc",
+      "source_url": "https://t.me/tontakeotc"
+    },
+    {
+      "username": "otccryptootc",
+      "source_url": "https://t.me/otccryptootc"
+    },
+    {
+      "username": "p2pay",
+      "source_url": "https://t.me/p2pay"
+    },
+    {
+      "username": "tvrn_otc",
+      "source_url": "https://t.me/tvrn_otc"
+    },
+    {
+      "username": "germany_crypto",
+      "source_url": "https://t.me/germany_crypto"
+    },
+    {
+      "username": "privet_thai_exchange",
+      "source_url": "https://t.me/privet_thai_exchange"
+    },
+    {
+      "username": "otc_chat_s",
+      "source_url": "https://t.me/OTC_Chat_S"
+    },
+    {
+      "username": "powerpalaceotc",
+      "source_url": "https://t.me/powerpalaceotc"
+    },
+    {
+      "username": "otc_market_binance",
+      "source_url": "https://t.me/otc_market_binance"
+    },
+    {
+      "username": "ua_otc",
+      "source_url": "https://t.me/ua_otc"
+    },
+    {
+      "username": "doubletop_otc",
+      "source_url": "https://t.me/doubletop_otc"
+    },
+    {
+      "username": "doubletop_market",
+      "source_url": "https://t.me/doubletop_market"
+    },
+    {
+      "username": "marketicobog",
+      "source_url": "https://t.me/marketicobog"
+    },
+    {
+      "username": "tensor_otc",
+      "source_url": "https://t.me/Tensor_OTC"
+    },
+    {
+      "username": "otc_bull",
+      "source_url": "https://t.me/otc_bull"
+    },
+    {
+      "username": "otc_crypto_escrow",
+      "source_url": "https://t.me/otc_crypto_escrow"
+    },
+    {
+      "username": "otc_dragonmarket",
+      "source_url": "https://t.me/otc_dragonmarket"
+    },
+    {
+      "username": "papaotcmarket",
+      "source_url": "https://t.me/papaotcmarket"
+    },
+    {
+      "username": "otc_gucci",
+      "source_url": "https://t.me/otc_gucci"
+    },
+    {
+      "username": "pbotc",
+      "source_url": "https://t.me/pbotc"
+    },
+    {
+      "username": "cryptoukraine2027",
+      "source_url": "https://t.me/cryptoukraine2027"
+    },
+    {
+      "username": "nike_otc",
+      "source_url": "https://t.me/nike_otc"
+    },
+    {
+      "username": "otc_coin",
+      "source_url": "https://t.me/otc_coin"
+    },
+    {
+      "username": "otcgrizzly",
+      "source_url": "https://t.me/otcgrizzly"
+    },
+    {
+      "username": "market_community",
+      "source_url": "https://t.me/market_community"
+    },
+    {
+      "username": "scryptotc",
+      "source_url": "https://t.me/SCryptOTC"
+    }
+  ]
+}

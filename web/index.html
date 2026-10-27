@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b100f">
+  <meta name="description" content="Публичный каталог русскоязычных OTC-чатов Telegram: участники, онлайн, поиск и время проверки.">
+  <title>OTC Radar — каталог Telegram-чатов</title>
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#catalog">Перейти к списку чатов</a>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="OTC Radar — главная"><span class="brand-mark" aria-hidden="true"><span></span></span><span>OTC<span class="brand-light">RADAR</span></span><span class="beta-label">PUBLIC INDEX</span></a>
+      <nav class="topnav" aria-label="Навигация"><a class="active" href="#catalog">Каталог чатов</a><a href="#about">О данных <span aria-hidden="true">↗</span></a></nav>
+      <span class="connection-pill" id="connection-pill"><span class="status-dot" aria-hidden="true"></span><span id="connection-label">Подключение</span></span>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="small-cross" aria-hidden="true">✳</span> TELEGRAM COMMUNITY EXPLORER</p>
+          <h1 id="page-title">Русскоязычные<br>OTC-чаты<span class="accent">.</span></h1>
+          <p class="hero-description">Один каталог для поиска сообществ.<br>Проверенные ссылки, участники и доступный онлайн.</p>
+          <div class="hero-meta"><span class="meta-line" aria-hidden="true"></span><span>Только публичные группы</span><span class="meta-divider" aria-hidden="true">/</span><span>Без дубликатов</span></div>
+        </div>
+        <div class="radar-panel" aria-hidden="true">
+          <div class="radar-orbit orbit-outer"></div><div class="radar-orbit orbit-middle"></div><div class="radar-orbit orbit-inner"></div>
+          <div class="radar-axis axis-x"></div><div class="radar-axis axis-y"></div><div class="radar-sweep"></div>
+          <div class="radar-center"></div><div class="radar-point point-one"></div><div class="radar-point point-two"></div><div class="radar-point point-three"></div>
+          <span class="radar-coordinate coordinate-top">55.7558° N</span><span class="radar-coordinate coordinate-bottom">PUBLIC NETWORK</span>
+          <span class="radar-caption"><span class="status-dot"></span> ОБНАРУЖИВАЕМ СООБЩЕСТВА</span>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="Статистика каталога">
+        <article class="metric-card metric-primary"><div class="metric-top"><span>Чатов в каталоге</span><span class="metric-symbol" aria-hidden="true">↗</span></div><div class="metric-value" id="total-chats">—</div><div class="metric-bottom"><span class="tiny-square" aria-hidden="true"></span><span id="total-detail">Ожидаем данные сборщика</span></div></article>
+        <article class="metric-card"><div class="metric-top"><span>Участников суммарно</span><span class="metric-symbol people-symbol" aria-hidden="true">♧</span></div><div class="metric-value" id="total-members">—</div><div class="metric-bottom" id="members-detail">По публичным данным групп</div></article>
+        <article class="metric-card"><div class="metric-top"><span>Онлайн при проверке</span><span class="online-ring" aria-hidden="true"></span></div><div class="metric-value" id="total-online">—</div><div class="metric-bottom" id="online-detail">На момент последней проверки</div></article>
+        <article class="metric-card goal-card"><div class="metric-top"><span>Цель каталога</span><span class="metric-symbol" aria-hidden="true">◎</span></div><div class="goal-number"><span id="goal-current">—</span><span class="goal-slash">/</span><span id="goal-target">1 500</span></div><div class="progress-track" role="progressbar" aria-label="Чатов собрано от цели" aria-valuemin="0" aria-valuemax="1500" aria-valuenow="0" id="goal-progress"><div id="goal-fill"></div></div><div class="metric-bottom" id="goal-detail">Считаем только подтверждённые чаты</div></article>
+      </section>
+
+      <section class="catalog-section" id="catalog" aria-labelledby="catalog-title">
+        <div class="section-heading"><div><p class="eyebrow section-eyebrow">НАВИГАЦИЯ ПО СООБЩЕСТВАМ</p><h2 id="catalog-title">Каталог чатов <span id="heading-count" class="count-badge">—</span></h2></div><button id="export-button" class="button button-secondary" type="button" disabled><svg aria-hidden="true" viewBox="0 0 20 20" fill="none"><path d="M10 3v9m-3-3 3 3 3-3M4 12v4h12v-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>Скачать CSV</button></div>
+
+        <div class="catalog-toolbar"><label class="search-field"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.5"/><path d="m13 13 4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg><span class="sr-only">Поиск по названию или имени пользователя</span><input id="search-input" type="search" placeholder="Название чата или @username" autocomplete="off" spellcheck="false"><kbd aria-hidden="true">/</kbd></label><label class="sort-field"><span class="sr-only">Сортировка</span><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M4 5h12M4 10h8M4 15h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg><select id="sort-select"><option value="members">Больше участников</option><option value="online">Больше онлайн</option><option value="recent">Недавно проверены</option><option value="name">По названию</option></select></label></div>
+
+        <div class="catalog-subtoolbar"><div class="category-tabs" role="group" aria-label="Категория чатов"><button class="category-tab active" type="button" data-category="all" aria-pressed="true">Все чаты</button><button class="category-tab" type="button" data-category="crypto" aria-pressed="false">Криптовалюты</button><button class="category-tab" type="button" data-category="gifts" aria-pressed="false">Подарки и NFT</button></div><span class="refresh-note"><span class="status-dot" aria-hidden="true"></span>Страница проверяет обновления каждые 60 сек.</span></div>
+
+        <div class="notice" id="notice" hidden role="status"><span id="notice-message"></span><button class="text-button" id="retry-button" type="button">Повторить</button></div>
+        <div class="table-shell"><div class="table-header" aria-hidden="true"><span>СООБЩЕСТВО</span><span>УЧАСТНИКИ</span><span>ОНЛАЙН</span><span>ПРОВЕРЕНО</span><span></span></div><div id="chat-list" class="chat-list" aria-live="polite" aria-busy="true"><div class="empty-state"><span class="empty-icon" aria-hidden="true">◎</span><h3>Загружаем каталог</h3><p>Получаем последний опубликованный результат сборщика.</p></div></div></div>
+        <div class="list-footer"><span id="results-detail">Ожидаем данные</span><button id="load-more" class="button button-secondary" type="button" hidden>Показать ещё 50 <span aria-hidden="true">↓</span></button></div>
+      </section>
+
+      <section class="data-note" id="about" aria-labelledby="about-title"><div class="data-note-icon" aria-hidden="true">i</div><div><h2 id="about-title">Открытые данные. Прозрачные обновления.</h2><p>Сборщик проверяет публичные страницы Telegram по расписанию GitHub Actions: <span id="schedule-detail">плановый интервал — 15 минут</span>. Запуски могут задерживаться. Страница проверяет опубликованные данные каждую минуту. Участники и онлайн показаны на момент проверки, а не в реальном времени.</p><p>Отсутствующие показатели отмечены «нет данных». Суммарная аудитория может включать одних и тех же людей в разных чатах. Наличие в каталоге не подтверждает надёжность участников или безопасность сделок.</p></div></section>
+    </main>
+
+    <footer class="footer"><span class="footer-brand">OTC RADAR <span>© <span id="year">2026</span></span></span><span id="updated-at">Данные ещё не загружены</span><a id="workflow-link" href="https://github.com" target="_blank" rel="noopener noreferrer" hidden>Последний запуск <span aria-hidden="true">↗</span></a></footer>
+  </div>
+</body>
+</html>
