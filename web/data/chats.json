@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T06:02:01+00:00",
+  "generated_at": "2026-10-27T06:19:06+00:00",
   "target": 1500,
   "category_scope": "all",
   "chats": [
@@ -10,18 +10,24 @@
       "title": "Crypto Taverna OTC",
       "description": "Escrow/Гаранты: @Ranger220 @crypto_bw @nurekd @bimboboss @Sobolezni4 All resources: https://t.me/addlist/biOeTN1Tf6MxYWFk Rules: ENG: https://t.me/crpt_otc/1863459 RUS: https://t.me/crpt_otc/1863457 Feedback @crpto_tvrn",
       "category": "crypto",
-      "members": 20772,
-      "online": 1440,
-      "last_checked": "2026-10-27T05:58:58+00:00",
+      "members": 20773,
+      "online": 1628,
+      "last_checked": "2026-10-27T06:18:07+00:00",
       "first_seen": "2026-10-27T05:58:58+00:00",
       "evidence_url": "https://t.me/crpt_otc",
       "source_urls": [
+        "https://t.me/bimboboss",
         "https://t.me/crpt_otc",
+        "https://t.me/crpto_tvrn",
+        "https://t.me/crypto_bw",
+        "https://t.me/medoedi3",
+        "https://t.me/nurekd",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -30,8 +36,8 @@
       "description": "— Указывать #WTS (хочу продать) и #WTB (хочу купить) в объявлении. — Указывать цену в объявлении, для расчетов используется $. — Соблюдать ограничение на количество 500 символов и 12 строк. Гарант: @valter6781",
       "category": "gifts",
       "members": 17106,
-      "online": 1602,
-      "last_checked": "2026-10-27T05:59:00+00:00",
+      "online": 1691,
+      "last_checked": "2026-10-27T06:18:08+00:00",
       "first_seen": "2026-10-27T05:59:00+00:00",
       "evidence_url": "https://t.me/crypto_otc_market",
       "source_urls": [
@@ -39,7 +45,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -48,8 +55,8 @@
       "description": "Прайс на услуги гаранта и рекламу + ОТЗЫВЫ - https://t.me/priseforservice Гарант @Cryptop2pUkraine1 Наш канал https://t.me/CryptoUkraine2022 Скам чат https://t.me/ScamUAlert ( Если вас обманули пишем сюда жалобу)",
       "category": "crypto",
       "members": 13384,
-      "online": 239,
-      "last_checked": "2026-10-27T06:00:22+00:00",
+      "online": 298,
+      "last_checked": "2026-10-27T06:18:20+00:00",
       "first_seen": "2026-10-27T06:00:22+00:00",
       "evidence_url": "https://t.me/cryptoukraine2027",
       "source_urls": [
@@ -58,7 +65,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -67,12 +75,51 @@
       "description": "Админ чата: @dadyaknow Канал Дяди: @dadyacrypto Здесь вы можете покупать/продавать стикеры и подарки Telegram!",
       "category": "gifts",
       "members": 18483,
-      "online": 2657,
-      "last_checked": "2026-10-27T06:00:25+00:00",
+      "online": 2868,
+      "last_checked": "2026-10-27T06:18:21+00:00",
       "first_seen": "2026-10-27T06:00:25+00:00",
       "evidence_url": "https://t.me/dadyagift",
       "source_urls": [
-        "https://t.me/DADYAGIFT"
+        "https://t.me/DADYAGIFT",
+        "https://t.me/dadyacrypto",
+        "https://t.me/dadyaknow"
+      ],
+      "verified": true,
+      "verification_method": "public_web",
+      "language_basis": "cyrillic_profile",
+      "aliases": []
+    },
+    {
+      "id": null,
+      "username": "nft_birza8",
+      "title": "OTC 🎁Покупка / Продажа Подарков",
+      "description": "✅ • В данной группу вы можете выгодно купить/продать NFT. 🎁 Купля / Продажа Telegram Gifts Telegram gifts, NFT, stickers, TON, analytics",
+      "category": "gifts",
+      "members": 2525,
+      "online": 97,
+      "last_checked": "2026-10-27T06:17:37+00:00",
+      "first_seen": "2026-10-27T06:17:37+00:00",
+      "evidence_url": "https://t.me/nft_birza8",
+      "source_urls": [
+        "https://t.me/nft_birza8"
+      ],
+      "verified": true,
+      "verification_method": "public_web",
+      "language_basis": "cyrillic_profile"
+    },
+    {
+      "id": null,
+      "username": "nfttreidtg",
+      "title": "NFT | ПОДАРКИ | ТРЕЙД",
+      "description": "⭐️ГАРАНТ ГРУППЫ 👉@свободное место) ⭐️БОТ OTC 👉 @GiftElfRobot ‼️Проводи сделки только через гарантов/гарантботов",
+      "category": "gifts",
+      "members": 3927,
+      "online": 219,
+      "last_checked": "2026-10-27T06:17:43+00:00",
+      "first_seen": "2026-10-27T06:17:43+00:00",
+      "evidence_url": "https://t.me/nfttreidtg",
+      "source_urls": [
+        "https://t.me/nfttreidtg"
       ],
       "verified": true,
       "verification_method": "public_web",
@@ -85,8 +132,8 @@
       "description": "💎 Правила - первый закреп 💎 ✔️ Все что ты ищешь - @Projects_TON ✔️ Предложения - @r777u",
       "category": "gifts",
       "members": 3098,
-      "online": 247,
-      "last_checked": "2026-10-27T05:59:11+00:00",
+      "online": 291,
+      "last_checked": "2026-10-27T06:18:09+00:00",
       "first_seen": "2026-10-27T05:59:11+00:00",
       "evidence_url": "https://t.me/otc_gift_chat",
       "source_urls": [
@@ -94,7 +141,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -103,8 +151,8 @@
       "description": "Чат : KYC | Services | OTC Announcements: @giftcards_sup Twitter.com/Binance Rules: https://t.me/OTC_Market_Binance/24",
       "category": "gifts",
       "members": 1312,
-      "online": 35,
-      "last_checked": "2026-10-27T05:59:13+00:00",
+      "online": 37,
+      "last_checked": "2026-10-27T06:18:10+00:00",
       "first_seen": "2026-10-27T05:59:13+00:00",
       "evidence_url": "https://t.me/otc_market_binance",
       "source_urls": [
@@ -112,7 +160,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -120,17 +169,19 @@
       "title": "OTC CRYPTO",
       "description": "Добро пожаловать в чат по криптовалюте OTS! Здесь обсуждаем последние тренды, делимся аналитикой и торговыми стратегиями. Присоединяйтесь к сообществу профессионалов и новичков, где каждый может найти свое место в мире цифровых активов. Помощь| @AOHCOCET",
       "category": "crypto",
-      "members": 5793,
-      "online": 93,
-      "last_checked": "2026-10-27T05:59:17+00:00",
+      "members": 5794,
+      "online": 106,
+      "last_checked": "2026-10-27T06:18:11+00:00",
       "first_seen": "2026-10-27T05:59:17+00:00",
       "evidence_url": "https://t.me/otccryptootc",
       "source_urls": [
+        "https://t.me/aohcocet",
         "https://t.me/otccryptootc"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -138,9 +189,9 @@
       "title": "OTC TELEGRAM",
       "description": "OTC Forum | Marketplace Один из первых и крупнейших OTC в телеграмм! Продажа / обмен подарки, криптовалюта и другая игровая ценность. Официальный бот-гарант: @TheOpenGuarantorBot 🔞 Запрет: скам, флуд, спам и все подобное.",
       "category": "mixed",
-      "members": 26313,
-      "online": 3853,
-      "last_checked": "2026-10-27T05:59:19+00:00",
+      "members": 26314,
+      "online": 4299,
+      "last_checked": "2026-10-27T06:18:12+00:00",
       "first_seen": "2026-10-27T05:59:19+00:00",
       "evidence_url": "https://t.me/otcgifttg",
       "source_urls": [
@@ -149,7 +200,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -158,12 +210,49 @@
       "description": "💎 OTC-чат Telegram-подарков 🎰 @Shuffle #1 VIP Crypto Casino & Sportsbook Shuffle.com ⚡️ Покупка и продажа подарков напрямую. Никакого флуда — только сделки и цены! Владелец: @lqpdwasd",
       "category": "gifts",
       "members": 4810,
-      "online": 646,
-      "last_checked": "2026-10-27T05:59:24+00:00",
+      "online": 682,
+      "last_checked": "2026-10-27T06:18:13+00:00",
       "first_seen": "2026-10-27T05:59:24+00:00",
       "evidence_url": "https://t.me/otcwall",
       "source_urls": [
         "https://t.me/OTCwall"
+      ],
+      "verified": true,
+      "verification_method": "public_web",
+      "language_basis": "cyrillic_profile",
+      "aliases": []
+    },
+    {
+      "id": null,
+      "username": "p2pay",
+      "title": "КРИПТО СТЕНА CHAT КУПИТЬ USDT ПРОДАТЬ BTC BINANCE BYBIT RUSSIA ОБЪЯВЛЕНИЯ BITCOIN COIN АРБИТРАЖ СВЯЗКИ ОБМЕННИК OTC P2P GRAM ETH",
+      "description": "ОБМЕННИК: t.me/send?start=r-sfrcb Официальный партнёр биржи BingX: ВВОДИ код H3WSZP при регистрации и забирай бонусы",
+      "category": "crypto",
+      "members": 11594,
+      "online": 101,
+      "last_checked": "2026-10-27T06:18:01+00:00",
+      "first_seen": "2026-10-27T06:18:01+00:00",
+      "evidence_url": "https://t.me/p2pay",
+      "source_urls": [
+        "https://t.me/p2pay"
+      ],
+      "verified": true,
+      "verification_method": "public_web",
+      "language_basis": "cyrillic_profile"
+    },
+    {
+      "id": null,
+      "username": "syndicate_garant",
+      "title": "𝙂𝘼𝙍𝘼𝙉𝙏 🎃 𝙎𝙔𝙉𝘿𝙄𝘾𝘼𝙏𝙀 | Честные сделки | БИРЖА NFT | OTC",
+      "description": "‼️ Перед проведением сделок в нашем чате ознакомьтесь с: 📘 @navigation_garant - навигация 🫂 @reviews_syndicate - 30k 📖 Ознакомьтесь с правилами проекта, прописав команду «правила» в чате. 📕 @syndibase - наша скам база. 💎Владелец - @maneramur",
+      "category": "gifts",
+      "members": 9308,
+      "online": 740,
+      "last_checked": "2026-10-27T06:19:01+00:00",
+      "first_seen": "2026-10-27T06:19:01+00:00",
+      "evidence_url": "https://t.me/syndicate_garant",
+      "source_urls": [
+        "https://t.me/syndicate_garant"
       ],
       "verified": true,
       "verification_method": "public_web",
@@ -175,19 +264,21 @@
       "title": "TonTake OTC | NFT Подарки",
       "description": "Р2Р рынок для трейдинга, боты отсутствуют! Наш канал: @tontakeotcinfo Правила: t.me/tontakeotc/8/67169 Ответственный за проект: @tonmeup",
       "category": "gifts",
-      "members": 58020,
-      "online": 2905,
-      "last_checked": "2026-10-27T05:59:31+00:00",
+      "members": 58022,
+      "online": 2975,
+      "last_checked": "2026-10-27T06:18:14+00:00",
       "first_seen": "2026-10-27T05:59:31+00:00",
       "evidence_url": "https://t.me/tontakeotc",
       "source_urls": [
         "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru",
         "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru",
-        "https://t.me/tontakeotc"
+        "https://t.me/tontakeotc",
+        "https://t.me/tontakeotcinfo"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -195,19 +286,21 @@
       "title": "Crypto Taverna OTC",
       "description": "Bot: @TVRN_OTC_BOT Escrow: @sheligod @ranger228 @crypto_bu @dmithree All resources: t.me/addlist/RHHQhEqNTeA0N2My Rules/Правила: ENG: t.me/tvrn_faq/235 RUS: t.me/tvrn_faq/234 Feedback: @crpto_otc",
       "category": "crypto",
-      "members": 53309,
-      "online": 3330,
-      "last_checked": "2026-10-27T05:59:31+00:00",
+      "members": 53307,
+      "online": 4008,
+      "last_checked": "2026-10-27T06:18:15+00:00",
       "first_seen": "2026-10-27T05:59:31+00:00",
       "evidence_url": "https://t.me/tvrn_otc",
       "source_urls": [
         "https://t.me/crpto_otc",
+        "https://t.me/crypto_bu",
         "https://t.me/tvrn_otc",
         "https://tgpulse.com/ru/search?order=best&search=Otc"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -216,16 +309,18 @@
       "description": "UTYA OTC - платформа предназначенная для продажи/покупки/поиска интересующих подарков. Наш канал — @giftsutya",
       "category": "gifts",
       "members": 635,
-      "online": 113,
-      "last_checked": "2026-10-27T05:59:34+00:00",
+      "online": 133,
+      "last_checked": "2026-10-27T06:18:16+00:00",
       "first_seen": "2026-10-27T05:59:34+00:00",
       "evidence_url": "https://t.me/utyaotc",
       "source_urls": [
+        "https://t.me/giftsutya",
         "https://t.me/utyaotc"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -233,9 +328,9 @@
       "title": "VSEZNAYKA OTC / TELEGRAM GIFTS & STICKERS",
       "description": "Создатель: @vseznayka_admin Канал: @ton_vseznayka ⭐️ Сервис для покупки звёзд без KYC: @vseznayka_stars_bot 💎 TON за рубли: @vseznayka_ex_bot",
       "category": "gifts",
-      "members": 18260,
-      "online": 2703,
-      "last_checked": "2026-10-27T05:59:35+00:00",
+      "members": 18262,
+      "online": 3070,
+      "last_checked": "2026-10-27T06:18:17+00:00",
       "first_seen": "2026-10-27T05:59:35+00:00",
       "evidence_url": "https://t.me/vseznayka_otc",
       "source_urls": [
@@ -244,7 +339,8 @@
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -253,16 +349,18 @@
       "description": "Свежие новости из мира telegram подарков - @gift_newstg Связь/гарант 3% - @orgazm @notorgazm",
       "category": "gifts",
       "members": 17556,
-      "online": 3659,
-      "last_checked": "2026-10-27T05:59:36+00:00",
+      "online": 3934,
+      "last_checked": "2026-10-27T06:18:19+00:00",
       "first_seen": "2026-10-27T05:59:36+00:00",
       "evidence_url": "https://t.me/whaleotc",
       "source_urls": [
+        "https://t.me/gift_newstg",
         "https://t.me/whaleotc"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     },
     {
       "id": null,
@@ -271,16 +369,18 @@
       "description": "Доска для объявлений Внимание! Группа строго для объявлений о покупке/продаже подарков, юзерок и номеров Гарант: @nikolasgenius 2% Запрещены ссылки на сторонние сайты, отс и оски 💜 При поддержке @Shuffle Shuffle.com Умножь депозит ×3 с кодом TG3x 💜",
       "category": "gifts",
       "members": 15860,
-      "online": 3047,
-      "last_checked": "2026-10-27T05:59:36+00:00",
+      "online": 3300,
+      "last_checked": "2026-10-27T06:18:18+00:00",
       "first_seen": "2026-10-27T05:59:36+00:00",
       "evidence_url": "https://t.me/yo_otc",
       "source_urls": [
+        "https://t.me/nikolasgenius",
         "https://t.me/yo_otc"
       ],
       "verified": true,
       "verification_method": "public_web",
-      "language_basis": "cyrillic_profile"
+      "language_basis": "cyrillic_profile",
+      "aliases": []
     }
   ]
 }
