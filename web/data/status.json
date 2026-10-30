@@ -1,19 +1,27 @@
 {
   "state": "partial",
-  "last_attempt": "2026-10-30T07:22:53+00:00",
-  "last_success": "2026-10-30T07:23:34+00:00",
+  "last_attempt": "2026-10-30T14:30:11+00:00",
+  "last_success": "2026-10-30T14:30:52+00:00",
   "verified_count": 34,
   "candidate_count": 958,
-  "inspected_this_run": 37,
-  "sources_fetched": 6,
-  "run_url": "https://github.com/Pashawilliams/otc-radar/actions/runs/41019722371",
+  "inspected_this_run": 34,
+  "sources_fetched": 4,
+  "run_url": "https://github.com/Pashawilliams/otc-radar/actions/runs/41072052767",
   "errors": [
     {
-      "source": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=1",
+      "source": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=2",
       "message": "HTTP 403"
     },
     {
-      "source": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=10",
+      "source": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=20",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=3",
+      "message": "HTTP 403"
+    },
+    {
+      "source": "https://chatcrawler.link/ru/c/t/telegram/gifts/groups?lang=ru&p=30",
       "message": "HTTP 403"
     }
   ],
