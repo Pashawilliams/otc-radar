@@ -1,27 +1,27 @@
 {
   "state": "partial",
-  "last_attempt": "2026-10-30T23:18:24+00:00",
-  "last_success": "2026-10-30T23:19:04+00:00",
+  "last_attempt": "2026-10-31T02:33:00+00:00",
+  "last_success": "2026-10-31T02:33:39+00:00",
   "verified_count": 34,
   "candidate_count": 958,
   "inspected_this_run": 34,
   "sources_fetched": 4,
-  "run_url": "https://github.com/Pashawilliams/otc-radar/actions/runs/41143648236",
+  "run_url": "https://github.com/Pashawilliams/otc-radar/actions/runs/41160497628",
   "errors": [
     {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=10",
+      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=30",
       "message": "HTTP 403"
     },
     {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=2",
+      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=40",
       "message": "HTTP 403"
     },
     {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=20",
+      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=50",
       "message": "HTTP 403"
     },
     {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=3",
+      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=91",
       "message": "HTTP 403"
     }
   ],
