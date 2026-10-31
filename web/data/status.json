@@ -1,30 +1,13 @@
 {
-  "state": "partial",
-  "last_attempt": "2026-10-31T02:33:00+00:00",
-  "last_success": "2026-10-31T02:33:39+00:00",
+  "state": "ok",
+  "last_attempt": "2026-10-31T08:50:47+00:00",
+  "last_success": "2026-10-31T08:51:28+00:00",
   "verified_count": 34,
-  "candidate_count": 958,
-  "inspected_this_run": 34,
-  "sources_fetched": 4,
-  "run_url": "https://github.com/Pashawilliams/otc-radar/actions/runs/41160497628",
-  "errors": [
-    {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=30",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=40",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=50",
-      "message": "HTTP 403"
-    },
-    {
-      "source": "https://chatcrawler.link/ru/c/t/crypto/exchanges_p2p/groups?lang=ru&p=91",
-      "message": "HTTP 403"
-    }
-  ],
+  "candidate_count": 960,
+  "inspected_this_run": 36,
+  "sources_fetched": 8,
+  "run_url": "https://github.com/Pashawilliams/otc-radar/actions/runs/41186235504",
+  "errors": [],
   "mode": "public_web",
   "refresh_minutes": 15
 }
